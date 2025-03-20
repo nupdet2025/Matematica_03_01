@@ -1,0 +1,12 @@
+{
+  "name": "matematica_03ano_01",
+  "short_name": "matematica_03ano_01",
+  "id": "com.example.pairs",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
